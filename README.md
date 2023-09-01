@@ -1,0 +1,1 @@
+# qt-desktop-minimal
